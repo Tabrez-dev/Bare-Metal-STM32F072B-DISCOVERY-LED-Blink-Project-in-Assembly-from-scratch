@@ -83,3 +83,9 @@ resume
 ![image](https://github.com/user-attachments/assets/518119b8-cd0e-4909-a815-d5d01ca26009)
 
 
+
+
+
+https://github.com/user-attachments/assets/c0995508-29aa-4088-a59c-dcf0e780ca4e
+
+
