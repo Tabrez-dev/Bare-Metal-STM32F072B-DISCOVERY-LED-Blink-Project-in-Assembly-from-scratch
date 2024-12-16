@@ -1,4 +1,4 @@
-# Bare Metal STM32F072B-DISCOVERY LED Blink Project
+# Bare Metal STM32F072B-DISCOVERY LED Blink Project in Assembly from Scratch
 
 ## Project Overview
 This is a simple embedded project to blink **LED3** (PC6) on the **STM32F072B-DISCOVERY** board. The project demonstrates low-level GPIO configuration and LED control using assembly language.
