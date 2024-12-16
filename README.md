@@ -77,3 +77,9 @@ resume
 - Ensure your STM32F072B-DISCOVERY board is properly connected
 - Check that all dependencies are installed
 - Verify the correct OpenOCD configuration file for your board
+
+![image](https://github.com/user-attachments/assets/86ec82cb-6f95-47a4-a620-09a10b5a2efe)
+
+![image](https://github.com/user-attachments/assets/518119b8-cd0e-4909-a815-d5d01ca26009)
+
+
