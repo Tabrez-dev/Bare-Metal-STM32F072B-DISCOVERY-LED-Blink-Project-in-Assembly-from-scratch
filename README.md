@@ -12,6 +12,15 @@ This is a simple embedded project to blink **LED3** (PC6) on the **STM32F072B-DI
 - OpenOCD
 - Telnet client
 - STM32F072B-DISCOVERY board
+## References Used
+
+RM0091 Reference manual:
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.st.com/resource/en/reference_manual/rm0091-stm32f0x1stm32f0x2stm32f0x8-advanced-armbased-32bit-mcus-stmicroelectronics.pdf&ved=2ahUKEwj8guvyq7SKAxULU2wGHbLINFQQFnoECAoQAQ&usg=AOvVaw2LYNQovF7rWuehG3p1gYtG
+
+Data Sheet for STM32F072B microcontrollers
+
+https://www.st.com/en/microcontrollers-microprocessors/stm32f072rb.html
 
 ## Project Setup
 
@@ -87,5 +96,6 @@ resume
 
 
 https://github.com/user-attachments/assets/c0995508-29aa-4088-a59c-dcf0e780ca4e
+
 
 
