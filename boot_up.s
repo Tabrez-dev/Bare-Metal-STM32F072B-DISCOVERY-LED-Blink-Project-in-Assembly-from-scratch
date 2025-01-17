@@ -76,7 +76,7 @@
           ldr r0, =0xffffffbf
           and r2,r2,r0
           str r2, [r1]
-            // Configure PC6 with low-speed (OSPEEDR)        
+            // Configure PC6 with high-speed (OSPEEDR)        
           ldr r1, =GPIOC_OSPEEDR
           ldr r2,[r1]
           ldr r0, =0x00ffffff
